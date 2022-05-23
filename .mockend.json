@@ -1,1 +1,10 @@
-
+[
+  post:{
+    firstName: "sarangan",
+      lastName: "rajendran",
+      email: "sarangan365@gmail.com",
+      doctor: "Dr John Hopkins",
+      medium: "Google Meet",
+      date: "2022-11-22"
+  }
+]
